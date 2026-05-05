@@ -575,7 +575,7 @@ Expected behavior:
 
 ### Example 5: Conversation summarization with debug information
 
-![Example 5: conversation summary placeholder](asset/example_conversation_summary_debug.png)
+![Example 5: conversation summary placeholder](assets/example_conversation_summary_debug.png)
 
 Debug mode can show context resolution metadata, such as:
 
