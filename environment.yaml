@@ -1,0 +1,12 @@
+name: smarttutor
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12 
+  - pip
+  - pyyaml>=6.0
+  - pandas>=2.2
+  - python-dotenv>=1.0
+  - pip:
+      - openai>=1.75.0
+      - streamlit>=1.44.0
